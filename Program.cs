@@ -95,7 +95,7 @@ void scorecalculater()
 }
 
 void keyboardYESORNOlocker()
-{
+    {
     do
     {
         x = Console.ReadKey(true).KeyChar.ToString();
